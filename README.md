@@ -1,5 +1,7 @@
 # aegish
 
+> This repository contains code and results for the blog post [aegish: Using LLMs to block malicious shell commands before execution](https://guidobergman.substack.com/p/aegish-using-llms-to-block-malicious).
+
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
